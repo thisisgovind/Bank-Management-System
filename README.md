@@ -5,9 +5,9 @@ The principle objective of planning and developing this monetary framework is to
 
 
 #### Requirements of Project :
-##### Java
-##### APACHE NetBeans IDK 20
-##### MySQL 
+- #### Java
+- #### APACHE NetBeans IDK 20 
+- #### MySQL 
 
 ## Output
 ### Step-1: 
