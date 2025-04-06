@@ -15,4 +15,4 @@ The principle objective of planning and developing this monetary framework is to
 ### Step-2:
 ![image alt](https://github.com/thisisgovind/Bank-Management-System/blob/main/bs2.PNG?raw=true)
 ### Step-3:
-![image alt]()
+![image alt](https://github.com/thisisgovind/Bank-Management-System/blob/main/bs3.PNG?raw=true)
